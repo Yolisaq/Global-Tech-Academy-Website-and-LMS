@@ -395,7 +395,7 @@ Open the following URL in your browser:
 **👉 http://localhost:5173/**
 
 Keep the terminal open while the application is running.
-
+URL: https://global-tech-academy-website-and-lms.netlify.app/
 ---
 
 ## 🚀 Running the Application Separately
